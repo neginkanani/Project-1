@@ -16,4 +16,15 @@ Our group decided to isolate Texas as the state we wished to analyze with regard
 
 California was selected as the state within which we wished to locate a counterfactual. This is because California is the only state that has statewide rent control caps in addition to city specific laws.
 
-The cities that were paired were the Austin-Round Rock-Georgetown MSA in TX and the Sacramento-Roseville-Folsom MSA in California
+The cities that were paired were the Austin-Round Rock-Georgetown MSA in TX and the Sacramento-Roseville-Folsom MSA in California. Visualizations of their level of similarity are below: 
+
+![image](https://user-images.githubusercontent.com/119253324/215937551-e1eb091b-3039-407f-8898-34b699f6e522.png)
+
+
+![image](https://user-images.githubusercontent.com/119253324/215937706-af9bac2d-38be-4b17-a06f-1b4d0f83f402.png)
+
+![image](https://user-images.githubusercontent.com/119253324/215937729-d4a5e15d-b95e-468c-8008-4ac37820dedd.png)
+
+
+
+The cities that were paired were the Austin-Round Rock-Georgetown MSA in TX and the Sacramento-Roseville-Folsom MSA in California. Visualizations of their level of similarity are below: 
