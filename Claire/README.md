@@ -25,6 +25,4 @@ The cities that were paired were the Austin-Round Rock-Georgetown MSA in TX and 
 
 ![image](https://user-images.githubusercontent.com/119253324/215937729-d4a5e15d-b95e-468c-8008-4ac37820dedd.png)
 
-
-
-The cities that were paired were the Austin-Round Rock-Georgetown MSA in TX and the Sacramento-Roseville-Folsom MSA in California. Visualizations of their level of similarity are below: 
+ 
